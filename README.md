@@ -1,7 +1,7 @@
 # Titanic-disaster-prediction
 Using machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-This is my first Kaggle competition submission for which [Titanic: Machine Learning from disaster](https://www.kaggle.com/c/titanic/overview)
+This is my first Kaggle competition submission:: [Titanic: Machine Learning from disaster](https://www.kaggle.com/c/titanic/overview)
 # The Challenge:
 
 ![alt text](https://faithmag.com/sites/default/files/styles/article_full/public/2018-09/titanic2.jpg?h=6521bd5e&itok=H8td6QVv)
